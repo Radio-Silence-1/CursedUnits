@@ -4,6 +4,6 @@
     "author": "Radio Silence",
     "description": "[blue]Texture pack that changes stuff... because i want it to...",
     "version": "E",
-    "minGameVersion": E,
+    "minGameVersion": 101,
     "hidden": true
 }
