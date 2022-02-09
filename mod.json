@@ -2,8 +2,8 @@
     "name": "CursedUnitOfReadio",
     "displayName": "Weird Textures",
     "author": "Radio Silence",
-    "description": "[blue]Texture pack that changes stuff... because i want it to...",
-    "version": "E",
-    "minGameVersion": 101,
+    "description": "[blue]Changes units because i want it to",
+    "version": "0.1 Alpha",
+    "minGameVersion": 121.4,
     "hidden": true
 }
