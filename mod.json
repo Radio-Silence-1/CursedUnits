@@ -4,6 +4,6 @@
     "author": "Radio Silence",
     "description": "[blue]Changes units because i want it to (i am just going through my github, idk if this works, i am just to lazy to download it on my phone.)",
     "version": "0.1 Alpha",
-    "minGameVersion" >= "136",
+    "minGameVersion": >= "136",
     "hidden": true
 }
